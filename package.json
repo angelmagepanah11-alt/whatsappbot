@@ -1,7 +1,7 @@
 {
-  "name": "CHAMA-MD-MINI-BOT",
+  "name": "BEMAX-MD-MINI-BOT",
   "version": "1.0.0",
-  "description": "CHAMA MD MINI BOT WhatsApp Bot with Multi-Number Support",
+  "description": "BEMAX MD MINI BOT WhatsApp Bot with Multi-Number Support",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -42,6 +42,6 @@
     "baileys",
     "sula-md"
   ],
-  "author": "chama",
+  "author": "bemax",
   "license": "MIT"
 }
